@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tokyo</string>
+    <string name="departure">出発駅</string>
+</resources>
